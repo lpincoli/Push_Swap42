@@ -2,14 +2,6 @@
 
 <p>Push_swap is a data sorting tool that operates on a stack using a limited set of instructions. The goal is to sort the data with the minimum number of operations.</p>
 
-<h2>Table of Contents</h2>
-
-<ol>
-  <li><a href="#about">About</a></li>
-  <li><a href="#installation">Installation</a></li>
-  <li><a href="#usage">Usage</a></li>
-</ol>
-
 <h2 id="about">About</h2>
 
 <p>Push_swap is written in C and uses two stacks and a set of instructions to sort the data. It calculates and displays the smallest program that sorts the integers received as arguments.</p>
