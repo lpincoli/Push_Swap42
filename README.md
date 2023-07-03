@@ -9,7 +9,7 @@
 <h2 id="installation">Installation</h2>
 
 <ol>
-  <li>Clone the repository: <code>git clone https://github.com/yourusername/push_swap.git</code></li>
+  <li>Clone the repository: <code>git clone https://github.com/lpincoli/Push_Swap42.git</code></li>
   <li>Move to the project's directory: <code>cd push_swap</code></li>
   <li>Compile the project: <code>make</code></li>
 </ol>
