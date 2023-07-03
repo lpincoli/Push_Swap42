@@ -16,7 +16,7 @@
 
 <p>To compile the bonus part of the code, use the following command:</p>
 <ol>
-  <li><pre><code>make bonus</code></pre></li>
+  <pre><code>make bonus</code></pre>
 </ol>
 
 <h2 id="usage">Usage</h2>
