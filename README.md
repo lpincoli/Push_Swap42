@@ -10,18 +10,18 @@
 
 <ol>
   <li>Clone the repository: <pre><code>git clone https://github.com/lpincoli/Push_Swap42.git</code></pre></li>
-  <li>Move to the project's directory: <code>cd push_swap</code></li>
-  <li>Compile the project: <code>make</code></li>
+  <li>Move to the project's directory:  <pre><code>cd push_swap</code></pre></li>
+  <li>Compile the project:  <pre><code>make</code></pre></li>
 </ol>
 
 <h2 id="usage">Usage</h2>
 
 <p>To use push_swap, pass a list of integers as arguments:</p>
 
-<code>./push_swap 5 2 3 1 4</code>
+ <pre><code>./push_swap 5 2 3 1 4</code></pre>
 
 <p>This will print a list of instructions that, if executed, will sort the integers. You can verify this by running the checker program:</p>
 
-<code>./checker 5 2 3 1 4</code>
+ <pre><code>./checker 5 2 3 1 4</code></pre>
 
 <p>The checker program will read instructions from standard input. If after executing all instructions the stack is sorted and the second stack is empty, the checker will print "OK". Otherwise, it will print "KO".</p>
