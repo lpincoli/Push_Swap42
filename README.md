@@ -14,13 +14,17 @@
   <li>Compile the project:  <pre><code>make</code></pre></li>
 </ol>
 
+<p>To compile the bonus part of the code, use the following command:</p>
+
+<pre><code>make bonus</code></pre>
+
 <h2 id="usage">Usage</h2>
 
 <p>To use push_swap, pass a list of integers as arguments:</p>
 
  <pre><code>./push_swap 5 2 3 1 4</code></pre>
 
-<p>This will print a list of instructions that, if executed, will sort the integers. You can verify this by running the checker program:</p>
+<p>This will print a list of instructions that, if executed, will sort the integers. If you compiled the bonus part you can verify this by running the checker program:</p>
 
  <pre><code>./checker 5 2 3 1 4</code></pre>
 
