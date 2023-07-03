@@ -7,17 +7,12 @@ Ordering a Stack with limited operations available.
 <h2>Table of Contents</h2>
 
 <ol>
-  <li><a href="#foreword">Foreword</a></li>
   <li><a href="#introduction">Introduction</a></li>
   <li><a href="#objectives">Objectives</a></li>
   <li><a href="#common-instructions">Common Instructions</a></li>
   <li><a href="#mandatory-part">Mandatory Part</a></li>
   <li><a href="#bonus-part">Bonus Part</a></li>
 </ol>
-
-<h2 id="foreword">Foreword</h2>
-
-<p>A few examples of printing "Hello, world!" in various languages are provided. The examples include C, ASM, LOLCODE, PHP, Brainfuck, C#, HTML5, YASL, and OCaml.</p>
 
 <h2 id="introduction">Introduction</h2>
 
