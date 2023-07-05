@@ -30,3 +30,5 @@
  <pre><code>./checker 5 2 3 1 4</code></pre>
 
 <p>The checker program will read instructions from standard input. If after executing all instructions the stack is sorted and the second stack is empty, the checker will print "OK". Otherwise, it will print "KO".</p>
+
+<p>For more information about the project, read the subject file.</p>
