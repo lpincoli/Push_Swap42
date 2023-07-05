@@ -10,7 +10,7 @@
 
 <ol>
   <li>Clone the repository: <pre><code>git clone https://github.com/lpincoli/Push_Swap42.git</code></pre></li>
-  <li>Move to the project's directory:  <pre><code>cd push_swap</code></pre></li>
+  <li>Move to the project's directory:  <pre><code>cd Push_Swap42</code></pre></li>
   <li>Compile the project:  <pre><code>make</code></pre></li>
 </ol>
 
